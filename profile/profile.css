@@ -1,0 +1,40 @@
+#title_layout {
+    margin-top: 75px;
+    height: 75px;
+    font-size: 200%;
+    text-align: center;
+}
+
+#img_layout {
+    float: left;
+    width : 40%;
+    height : 450px;
+}
+
+#ilCard {
+    margin-left: 40%;
+    width: 18rem;
+    box-shadow: 5px 5px 5px gainsboro;
+    text-align: center;
+}
+
+#text_layout {
+    float: left;
+    width : 60%;
+    height : 450px;
+    display: flex;
+    align-items: center;
+}
+
+#tlText {
+    font-size: 175%;
+    line-height: 400%;
+}
+
+#tlMenu {
+    border: 2.5px solid #000; 
+    border-radius: 20px;
+    padding: 10px; 
+    padding-top: 30px; 
+    padding-bottom: 30px;
+}
