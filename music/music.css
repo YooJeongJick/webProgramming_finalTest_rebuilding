@@ -1,0 +1,45 @@
+#title_layout {
+    margin-top: 75px;
+    height: 75px;
+    font-size: 200%;
+    text-align: center;
+}
+
+#line {
+  margin-bottom: 25px;
+}
+
+#button_layout {
+    display: flex;
+    justify-content: center;
+    height: 65px;
+    /* background-color: blue; */
+}
+
+#blButton {
+  width: auto;
+  height: 37.6px;
+}
+
+#card_layout {
+  margin: 0;
+  height: 385px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* background-color: red; */
+}
+
+
+#clCard {
+  width: 400px;
+  height: 325px;
+}
+
+#clImg {
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+}

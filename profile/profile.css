@@ -5,6 +5,10 @@
     text-align: center;
 }
 
+#line {
+    margin-bottom: 25px;
+}
+
 #img_layout {
     float: left;
     width : 40%;
