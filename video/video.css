@@ -1,0 +1,41 @@
+#title_layout {
+    margin-top: 75px;
+    height: 75px;
+    font-size: 200%;
+    text-align: center;
+}
+
+#line {
+    margin-bottom: 25px;
+}
+  
+#video_layout {
+    height: 340px;
+    display: flex;
+    justify-content: center;
+}
+
+#button_layout {
+    height: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+#blButton {
+    width: auto;
+    height: 37.6px;
+}
+
+#bar_layout {
+    height: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+#barlBar {
+    width: 750px;
+}
+
+#barlInput {
+    text-align: center;
+}
