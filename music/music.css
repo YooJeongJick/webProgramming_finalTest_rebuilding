@@ -13,7 +13,6 @@
     display: flex;
     justify-content: center;
     height: 65px;
-    /* background-color: blue; */
 }
 
 #blButton {
@@ -27,7 +26,6 @@
   display: flex;
   justify-content: center;
   text-align: center;
-  /* background-color: red; */
 }
 
 
